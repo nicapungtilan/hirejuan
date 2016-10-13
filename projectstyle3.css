@@ -1,0 +1,59 @@
+#navi{
+
+	margin-bottom: 0px;
+}
+.jumbotron{
+  margin-bottom: 0px;
+	background-color:#007EFF;
+	text-align: center; 
+	font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #fff;
+	text-underline-position: none;
+
+}
+.spe{
+	margin: auto;
+	width: 100%;
+	height: 100%;
+}
+
+#it{
+	background-color:#FF3B40;
+font-family:'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size:20px;
+color:#ffffff;
+padding:50px;
+}
+
+
+#man{
+	background-color:#FF3B40;
+font-family:'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size:20px;
+color:#ffffff;
+padding:50px;
+}
+
+#fin{
+	background-color:#FF3B40;
+font-family:'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size:20px;
+color:#ffffff;
+padding:50px;
+}
+
+#tsr{
+	background-color:#FF3B40;
+font-family:'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size:20px;
+color:#ffffff;
+padding:50px;
+}
+
+#arch{
+	background-color:#FF3B40;
+font-family:'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-size:20px;
+color:#ffffff;
+padding:50px;
+}
